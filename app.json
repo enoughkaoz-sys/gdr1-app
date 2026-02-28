@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "GDR",
-    "slug": "gdr-app",
-    "scheme": "gdr",
+    "name": "gdr1",
+    "slug": "gdr1-app",
+    "scheme": "gdr1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -31,7 +31,7 @@
     ],
     "extra": {
       "router": {
-        "origin": "gdr"
+        "origin": "gdr1"
       }
     }
   }
